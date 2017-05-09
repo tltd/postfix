@@ -1,4 +1,5 @@
 maintainer        "Opscode, Inc."
+name              "postfix"
 maintainer_email  "cookbooks@opscode.com"
 license           "Apache 2.0"
 description       "Installs and configures postfix for client or outbound relayhost, or to do SASL auth"
