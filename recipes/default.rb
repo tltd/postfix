@@ -56,7 +56,3 @@ end
     notifies :restart, resources(:service => "postfix")
   end
 end
-
-service "postfix" do
-  action :start
-end
